@@ -1,0 +1,10 @@
+MIDlet-1: BeersongMidlet, , SyedjReindeer.BeersongMidlet
+MIDlet-2: HelloworldMidlet, , SyedjReindeer.HelloworldMidlet
+MIDlet-3: SyedjReindeerMidlet, , SyedjReindeer.SyedjReindeerMidlet
+MIDlet-Jar-Size: 6953
+MIDlet-Jar-URL: SyedjReindeer.jar
+MIDlet-Name: SyedjReindeer
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
